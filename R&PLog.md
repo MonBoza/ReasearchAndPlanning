@@ -7,7 +7,6 @@
 - [Finish Accessibility lesson](https://www.codecademy.com/learn)
 - [Start Mongo Db Lesson](https://www.codecademy.com/enrolled/courses/learn-mongodb)
 
-
 ### 10:00 AM - 11:00 AM
 
 - [Finish MongDb Lesson](https://www.codecademy.com/enrolled/courses/learn-mongodb)
@@ -17,4 +16,3 @@
 - [Task 1]
 - [Task 2]
 - [Task 3]
-
