@@ -2,17 +2,18 @@
 
 ## March 11, 2024
 
-### 9:00 AM - 10:00 AM
+### 11:00 AM - 12:00 PM
 
 - [Finish Accessibility lesson](https://www.codecademy.com/learn)
 - [Start Mongo Db Lesson](https://www.codecademy.com/enrolled/courses/learn-mongodb)
 
-### 10:00 AM - 11:00 AM
+### 1:00 PM - 2:00 PM
 
-- [Finish MongDb Lesson](https://www.codecademy.com/enrolled/courses/learn-mongodb)
+- [Continue MongDb Lesson](https://www.codecademy.com/enrolled/courses/learn-mongodb)
 
-### 11:00 AM - 12:00 PM
+### 2:00 PM - 3:00 PM
 
-- [Task 1]
-- [Task 2]
-- [Task 3]
+Lunch 😋
+
+## 3:00 PM - 4:00 PM
+
