@@ -9,7 +9,7 @@
 
 ### 1:00 PM - 2:00 PM (CST)
 
-- [Continue MongDb Lesson](https://www.codecademy.com/enrolled/courses/learn-mongodb)
+- [Continue MongoDb Lesson](https://www.codecademy.com/enrolled/courses/learn-mongodb)
 
 ### 2:00 PM - 3:00 PM (CST)
 
@@ -17,4 +17,4 @@ Lunch 😋
 
 ## 3:00 PM - 4:00 PM (CST)
 
-- [Continue MongDb Lesson](https://www.codecademy.com/enrolled/courses/learn-mongodb)
+- [Continue MongoDb Lesson](https://www.codecademy.com/enrolled/courses/learn-mongodb)
