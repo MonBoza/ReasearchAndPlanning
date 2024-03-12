@@ -29,4 +29,8 @@
 
 ### 4:00 PM - 5:00 PM
 
-### 5:00 PM - 6:00 PM
+[Start AngularJS I](https://www.codecademy.com/courses/learn-angularjs/lessons/your-first-app/exercises/your-first-app-hello-angularjs-i)
+
+### 5:00 PM - 5:30PM
+
+Capstone Sign up!
