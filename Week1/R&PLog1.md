@@ -28,3 +28,7 @@ Lunch 😋
 - [Continue MongoDb Lesson](https://www.codecademy.com/enrolled/courses/learn-mongodb)
 
 Definitely taking longer than 6 hours
+
+## 6:00 PM -7:00 PM (CST)
+
+- [Continue MongoDb Lesson](https://www.codecademy.com/enrolled/courses/learn-mongodb)
