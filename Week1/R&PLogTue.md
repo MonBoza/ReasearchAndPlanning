@@ -12,6 +12,8 @@
 
 ### 11:30 AM - 1:00 PM
 
+- [Continue MongoDb Lesson](https://www.codecademy.com/enrolled/courses/)
+
 ### 1:00 PM - 2:00 PM
 
 ### 2:00 PM - 3:00 PM
