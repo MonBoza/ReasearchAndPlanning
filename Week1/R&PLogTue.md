@@ -1,0 +1,23 @@
+# Research and Planning Log
+
+## March 12, 2024
+
+### 10:00 AM - 11:00 AM (CST)
+
+- [Continue MongoDb Lesson](https://www.codecademy.com/enrolled/courses/)
+
+### 11:00 AM - 11:30 AM
+
+- Cohort Scrum
+
+### 11:30 AM - 1:00 PM
+
+### 1:00 PM - 2:00 PM
+
+### 2:00 PM - 3:00 PM
+
+### 3:00 PM - 4:00 PM
+
+### 4:00 PM - 5:00 PM
+
+### 5:00 PM - 6:00 PM
