@@ -21,7 +21,11 @@
 
 ### 2:00 PM - 3:00 PM
 
+- [Continue MongoDb Lesson](https://www.codecademy.com/enrolled/courses/)
+
 ### 3:00 PM - 4:00 PM
+
+- Lunch 🐷
 
 ### 4:00 PM - 5:00 PM
 
