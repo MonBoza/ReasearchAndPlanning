@@ -21,6 +21,8 @@
 
 ### 1:00 PM - 2:00 PM
 
+[SQL lesson](https://www.codecademy.com/courses/learn-sql/projects/learn_sql_query_table-1)
+
 ### 2:00 PM - 3:00 PM
 
 - Lunch  🥗
