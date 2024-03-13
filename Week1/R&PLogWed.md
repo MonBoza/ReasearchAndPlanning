@@ -37,4 +37,6 @@
 
 ### 5:00 PM - 6:00 PM
 
+ [SQL lesson](https://www.codecademy.com/courses/learn-sql/lessons/multiple-tables/exercises/inner-join-ii)
+    - I got very confused...
 ### 6:00 PM - 6:45 PM
