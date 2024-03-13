@@ -12,9 +12,12 @@
 
 ### 11:30 AM - 12:00 PM
 
-- Research new libraries for project
+- Change of plans doing an SQL lesson with codeacademy recommended by a 20 year Dev who said "LEARN IT MORE" 🥹
+[SQL lesson](https://www.codecademy.com/enrolled/courses/learn-sql)
 
 ### 12:00 PM - 1:00 PM
+
+[SQL lesson](https://www.codecademy.com/courses/learn-sql/articles/what-is-sqlite)
 
 ### 1:00 PM - 2:00 PM
 
