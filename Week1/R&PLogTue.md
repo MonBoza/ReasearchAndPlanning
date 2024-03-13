@@ -34,3 +34,7 @@
 ### 5:00 PM - 5:30PM
 
 Capstone Sign up!
+
+### 5:30 PM - 6: 45
+
+[Continued AngularJS I](https://www.codecademy.com/courses/learn-angularjs/lessons/your-first-app/exercises/your-first-app-hello-angularjs-i)
