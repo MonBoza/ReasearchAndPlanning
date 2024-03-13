@@ -29,6 +29,8 @@
 
 ### 3:00 PM - 4:00 PM
 
+[SQL lesson](https://www.codecademy.com/courses/learn-sql/projects/sql-hackernews)
+
 ### 4:00 PM - 5:00 PM
 
 ### 5:00 PM - 6:00 PM
