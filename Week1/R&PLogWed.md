@@ -33,6 +33,8 @@
 
 ### 4:00 PM - 5:00 PM
 
+[SQL lesson](https://www.codecademy.com/courses/learn-sql/lessons/multiple-tables/exercises/intro)
+
 ### 5:00 PM - 6:00 PM
 
 ### 6:00 PM - 6:45 PM
