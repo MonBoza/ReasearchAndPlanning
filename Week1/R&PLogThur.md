@@ -9,11 +9,11 @@
 
 ### 11:00 AM - 11:30 AM (CST)
 
--Scrum
+- Scrum
 
 ## 11:30 AM - 1: 00 PM (CST)
 
-- [ Continued UI/UX course]
+- [Continued UI/UX course](https://www.codecademy.com/courses/intro-to-ui-ux/lessons/ui-and-ux-key-methodologies/exercises/introduction-to-ui-and-ux-methodologies)
 
 ### 1:00 PM - 1:15 PM (CST)
 
