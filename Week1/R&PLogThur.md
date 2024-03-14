@@ -1,0 +1,34 @@
+# Research and Planning Log - Thursday
+
+## March 14, 2024
+
+### 10:00 AM - 11:00 (CST)
+
+- [UI/UX course](https://www.codecademy.com/courses/intro-to-ui-ux/informationals/ui-and-ux-welcome)
+  - This one just seems interesting
+
+### 11:00 AM - 11:30 AM (CST)
+
+-Scrum
+
+## 11:30 AM - 1: 00 PM (CST)
+
+- [ Continued UI/UX course]
+
+### 1:00 PM - 1:15 PM (CST)
+
+- Meeting with Erik
+
+### 1:15 PM - 2:15 PM (CST)
+
+### 2:00 PM - 3:00 PM (CST)
+
+Lunch 😋
+
+## 3:00 PM - 4:00 PM (CST)
+
+## 4:00 PM - 5:00 PM (CST)
+
+## 5:00 PM - 6:00 PM (CST)
+
+## 6:00 PM -7:00 PM (CST)
