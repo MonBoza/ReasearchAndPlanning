@@ -21,11 +21,15 @@
 
 ### 1:15 PM - 2:15 PM (CST)
 
+[Finishing UI/UX course](https://www.codecademy.com/courses/intro-to-ui-ux/quizzes/ui-and-ux-wireframes-quiz)
+
 ### 2:00 PM - 3:00 PM (CST)
 
 Lunch 😋
 
 ## 3:00 PM - 4:00 PM (CST)
+
+- Further exploration UI/UX
 
 ## 4:00 PM - 5:00 PM (CST)
 
