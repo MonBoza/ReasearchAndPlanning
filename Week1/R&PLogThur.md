@@ -30,6 +30,7 @@ Lunch 😋
 ## 3:00 PM - 4:00 PM (CST)
 
 - Further exploration UI/UX
+  - specifically figma
 
 ## 4:00 PM - 5:00 PM (CST)
 
