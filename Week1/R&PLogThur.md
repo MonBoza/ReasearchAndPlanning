@@ -42,4 +42,5 @@ Lunch 😋
 
 ## 6:00 PM -7:00 PM (CST)
 
-- 
+- Come up with a plan to learn indexes, explain plans, basic query tuning and N+1 problems better
+- Rework PDP so that I can focus on skills for Capstones.
