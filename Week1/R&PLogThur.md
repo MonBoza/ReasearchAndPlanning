@@ -38,6 +38,8 @@ Lunch 😋
 
 ## 5:00 PM - 6:00 PM (CST)
 
-- meeting with my mentor Wesley Gamble 
+- meeting with my mentor Wesley Gamble
 
 ## 6:00 PM -7:00 PM (CST)
+
+- 
