@@ -34,6 +34,10 @@ Lunch 😋
 
 ## 4:00 PM - 5:00 PM (CST)
 
+- Fill out second application for possible job interview Reynolds and Reynolds Houston. (Says it is 45- 1 hr long process)
+
 ## 5:00 PM - 6:00 PM (CST)
+
+- meeting with my mentor Wesley Gamble 
 
 ## 6:00 PM -7:00 PM (CST)
