@@ -9,4 +9,6 @@
 
 ### 11:00 AM - 12:00 PM (CST)
 
-
+- [continued](thttps://www.youtube.com/live/O0AhmAVzOo4?si=cPsUmNIxcu9Vie2u)
+  - Actually recreating reddit but not exactly what I'm looking for.
+- Research for something a little different.
