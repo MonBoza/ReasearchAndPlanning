@@ -25,3 +25,8 @@
 ### 2:00 - 3:00 PM
 
 - Eating my feelings 🌮
+
+### 3:00 - 4:00 PM
+
+- taking a break
+  - working on deploying the rest or my portfolio projects
