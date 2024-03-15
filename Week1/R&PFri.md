@@ -30,3 +30,7 @@
 
 - taking a break
   - working on deploying the rest or my portfolio projects
+
+### 4:00 - 5:00 PM
+
+- still attempting to deploy projects
