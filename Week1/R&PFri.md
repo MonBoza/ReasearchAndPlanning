@@ -34,3 +34,8 @@
 ### 4:00 - 5:00 PM
 
 - still attempting to deploy projects
+
+### 5: 15 - 6: 30
+
+- Apply for jobs
+- Leet code practice
