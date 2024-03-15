@@ -21,3 +21,7 @@
 ### 1:00 - 2:00 PM
 
 - Fighting frustration ... 😭
+
+### 2:00 - 3:00 PM
+
+- Eating my feelings 🌮
