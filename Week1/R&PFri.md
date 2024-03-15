@@ -12,3 +12,12 @@
 - [continued](thttps://www.youtube.com/live/O0AhmAVzOo4?si=cPsUmNIxcu9Vie2u)
   - Actually recreating reddit but not exactly what I'm looking for.
 - Research for something a little different.
+- May try and follow along with [this](https://novu.co/blog/building-a-forum-with-react-nodejs/)
+
+### 12: 00 - 1:00 PM
+
+- still working very little success 
+
+### 1:00 - 2:00 PM
+
+- Fighting frustration ... 😭
