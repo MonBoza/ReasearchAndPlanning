@@ -17,4 +17,8 @@
 
 ### 1:00 - 2:00 PM
 
-- continued less
+- continued lesson
+
+### 2:00 - 3:00 PM
+
+- LUNCH 🍔
