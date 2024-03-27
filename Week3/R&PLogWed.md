@@ -10,7 +10,7 @@
 
 - Cohort Scrum
 
-### 11:20 - 12:00 PM
+### 11:20 - 1:00 PM
 
 - building continued
   - [Database CRUD structure built](https://github.com/MonBoza/booksDb.git)
