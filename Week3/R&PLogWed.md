@@ -24,12 +24,19 @@
 
 - LUNCH 🍔
 
-### 3:00 - 4:00 PM
+### 3:00 - 4:45 PM
+
+- succesfully created an [django REST API](https://github.com/MonBoza/drinks.git)
 
 ### 4:00 - 5:00 PM
 
-### 5:00 - 6:00 PM
+- Updated README So I can reference later
 
-### 6:00 - 6:45 PM
+### 5:00 - 5:45 PM
 
+- Talked to mentor about best practices with django and C# MVC
+
+### 5:00 - 6:45 PM
+
+- Try and rework my book project 💩
 Finish up and log out
