@@ -6,11 +6,13 @@
 
 - build a CRUD application with Python and SQL
 
-### 11:00 AM - 11:30 AM (CST)
+### 11:00 AM - 11:20 AM (CST)
 
 - Cohort Scrum
 
-### 11:30 - 1:00 PM
+### 11:20 - 1:00 PM
+
+- building continued
 
 ### 1:00 - 2:00 PM
 
