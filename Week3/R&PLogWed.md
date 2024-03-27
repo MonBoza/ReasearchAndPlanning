@@ -18,6 +18,7 @@
 - trying to create a restful APi in python  😪
 
 ### 1:00 - 2:00 PM
+- [Trying this video then going back to other project](https://youtu.be/i5JykvxUk_A)
 
 ### 2:00 - 3:00 PM
 
