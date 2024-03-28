@@ -16,6 +16,8 @@
 
 ### 1:00 - 2:00 PM
 
+- beginning front end
+
 ### 2:00 - 3:00 PM
 
 - LUNCH 🍔
