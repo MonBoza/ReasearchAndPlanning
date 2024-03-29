@@ -22,10 +22,14 @@
 
 - LUNCH 🍔
 
-### 3:00 - 4:45 PM
+### 3:00 - 4:00 PM
 
-### 4:00 - 5:00 PM
+- unsuccessful 
 
-### 5:00 - 5:45 PM
+### 4:00 - 4:15 PM
 
-### 5:45 - 6:45 PM
+- Meeting with Erik
+
+### 4:15 - 6:45 PM
+
+- out sick for rest of day 🤢
