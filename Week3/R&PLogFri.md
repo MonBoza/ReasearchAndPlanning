@@ -2,7 +2,7 @@
 
 ## March 28, 2024
 
-### 10:00 AM - 1:30 PM(CST)
+### 10:00 AM - 2:00 PM(CST)
 
 - continue unfinished book project
 
