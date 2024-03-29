@@ -12,6 +12,10 @@
 
 ### 3:00 - 4:00 PM
 
-### 4:00 - 4:15 PM
+- going to try [this tutorial](https://docs.djangoproject.com/en/5.0/intro/tutorial04/)
 
-### 4:15 - 6:45 PM
+### 4:00 - 5:00 PM
+
+
+
+### 5:00 - 6:45 PM
