@@ -20,8 +20,8 @@
 
 ### 5:00 - 6:00 PM
 
-
+- Apply for two jobs
 
 ### 6:00 PM - 6:45 PM
 
-- ATTEMPT LEET CODE
+- attempt leet code prompts 🙃
