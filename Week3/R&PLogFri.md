@@ -24,4 +24,4 @@
 
 ### 6:00 PM - 6:45 PM
 
-- attempt leet code prompts
+- attempt leet code prompts 🫠
