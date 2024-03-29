@@ -16,6 +16,12 @@
 
 ### 4:00 - 5:00 PM
 
+- continue [tutorial](https://docs.djangoproject.com/en/5.0/intro/tutorial04/)
+
+### 5:00 - 6:00 PM
 
 
-### 5:00 - 6:45 PM
+
+### 6:00 PM - 6:45 PM
+
+- ATTEMPT LEET CODE
