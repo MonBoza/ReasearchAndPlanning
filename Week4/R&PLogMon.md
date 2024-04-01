@@ -18,6 +18,8 @@
 
 ### 1:00 - 2:00 PM
 
+- researching best frameworks and languages for AI
+
 ### 2:00 - 3:00 PM
 
 - LUNCH 🍔
