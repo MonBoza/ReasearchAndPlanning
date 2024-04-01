@@ -26,6 +26,8 @@
 
 ### 3:00 - 4:00 PM
 
+- revisiting UI/UX design
+
 ### 4:00 - 5:00 PM
 
 ### 5:00 - 6:00 PM
