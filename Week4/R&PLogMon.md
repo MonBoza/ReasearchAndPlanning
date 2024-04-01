@@ -35,5 +35,8 @@
 ### 5:00 - 6:00 PM
 
 - assist in debugging classmates project
+- continue UI/UX
 
 ### 6:00 - 6:45 PM
+
+- attempting to use figma 😬
