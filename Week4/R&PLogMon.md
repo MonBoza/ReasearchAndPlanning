@@ -30,6 +30,9 @@
 
 ### 4:00 - 5:00 PM
 
+- continued UI/UX design
+
+
 ### 5:00 - 6:00 PM
 
 ### 6:00 - 6:45 PM
