@@ -32,7 +32,8 @@
 
 - continued UI/UX design
 
-
 ### 5:00 - 6:00 PM
+
+- assist in debugging classmates project
 
 ### 6:00 - 6:45 PM
