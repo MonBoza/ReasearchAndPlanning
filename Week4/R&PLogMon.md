@@ -13,9 +13,10 @@
 
 ### 11:30 - 1:00 PM
 
+- come up with team week ideas
+  - researching how to integrate AI with a project
 
 ### 1:00 - 2:00 PM
-
 
 ### 2:00 - 3:00 PM
 
@@ -25,11 +26,6 @@
 
 ### 4:00 - 5:00 PM
 
-
 ### 5:00 - 6:00 PM
 
-
-
 ### 6:00 - 6:45 PM
-
-
