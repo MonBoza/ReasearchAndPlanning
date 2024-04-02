@@ -16,6 +16,7 @@
 
 ### 1:00 - 2:00 PM
 
+- back to UI/UX lesson (it feels like mostly reading 🫠)
 
 ### 2:00 - 3:00 PM
 
