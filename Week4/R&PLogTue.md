@@ -4,7 +4,7 @@
 
 ### 9:45 AM - 11:00 (CST)
 
-- Finish redoing UI/UX course
+- Finish redoing [UI/UX course](https://www.codecademy.com/courses/intro-to-ui-ux/lessons/ui-and-ux-prototyping-with-figma/exercises/layers-panel)
 
 ### 11:00 AM - 11:30 AM (CST)
 
@@ -12,7 +12,7 @@
 
 ### 11:30 - 1:00 PM
 
-
+- Apply for jobs 😀
 
 ### 1:00 - 2:00 PM
 
