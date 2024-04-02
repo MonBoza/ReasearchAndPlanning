@@ -29,4 +29,6 @@
 
 ### 5:00 - 6:00 PM
 
+- building figma desktop prototype
+
 ### 6:00 - 6:45 PM
