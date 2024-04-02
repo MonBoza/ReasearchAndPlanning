@@ -23,16 +23,10 @@
 
 - LUNCH 🍔
 
-### 3:00 - 4:00 PM
+### 3:00 - 4:30 PM
 
-
-### 4:00 - 5:00 PM
-
-
+- back to building a figma wire-frame prototype
 
 ### 5:00 - 6:00 PM
 
-
 ### 6:00 - 6:45 PM
-
-
