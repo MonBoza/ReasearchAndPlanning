@@ -17,6 +17,7 @@
 ### 1:00 - 2:00 PM
 
 - back to UI/UX lesson (it feels like mostly reading 🫠)
+  - got distracted and started sending follow up emails for jobs
 
 ### 2:00 - 3:00 PM
 
