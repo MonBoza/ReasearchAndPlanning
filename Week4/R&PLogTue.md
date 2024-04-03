@@ -32,3 +32,5 @@
 - building figma desktop prototype
 
 ### 6:00 - 6:45 PM
+
+- Leet code 
