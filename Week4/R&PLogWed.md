@@ -25,6 +25,7 @@
 ### 3:00 - 4:30 PM
 
 - highly unsuccessful
+ - was able to make a call to the API but maxed out VERY quickly
 
 ### 5:00 - 6:00 PM
 
