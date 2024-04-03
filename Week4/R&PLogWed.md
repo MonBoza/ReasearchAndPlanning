@@ -24,6 +24,8 @@
 
 ### 3:00 - 4:30 PM
 
+- highly unsuccessful
+
 ### 5:00 - 6:00 PM
 
 ### 6:00 - 6:45 PM
