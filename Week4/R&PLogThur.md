@@ -16,18 +16,18 @@
 
 ### 1:00 - 2:00 PM
 
+- continued [this youtube video](https://youtu.be/W1Co2M-gsQE)
 
 
 ### 2:00 - 3:00 PM
 
 - LUNCH 🍔
 
-### 3:00 - 4:30 PM
+### 3:00 - 5:00 PM
 
+- work on [Exercism problem](https://exercism.org/tracks/javascript/exercises/freelancer-rates/edit)
+  - meeting with Erik
 
+### 5:00 - 6:45 PM
 
-### 5:00 - 6:00 PM
-
-
-### 6:00 - 6:45 PM
-
+- [more exercism](https://exercism.org/tracks/javascript/exercises/poetry-club-door-policy)
