@@ -25,10 +25,13 @@
 ### 3:00 - 4:30 PM
 
 - highly unsuccessful
- - was able to make a call to the API but maxed out VERY quickly
-
+  - was able to make a call to the API but maxed out VERY quickly
 - [watching this youtube video](https://youtu.be/fSFJrG1wwm8)
 
 ### 5:00 - 6:00 PM
+ 
+  - continued  to work on AI
 
 ### 6:00 - 6:45 PM
+
+ - practice functions with [Exercism](https://exercism.org/tracks/javascript/exercises/freelancer-rates/edit)
