@@ -14,9 +14,10 @@
 
 - LUNCH 🍔
 
-### 3:00 - 4:45 PM
+### 3:00 - 4:15 PM
 
 - Meet with Team Week Team to discuss roles
 
+### 4:15 - 6:45 PM
 
-### 5:00 - 6:45 PM
+- searching for Recipe API or how to build one 
