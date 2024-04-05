@@ -18,6 +18,10 @@
 
 - Meet with Team Week Team to discuss roles
 
-### 4:15 - 6:45 PM
+### 4:15 - 6PM
 
 - searching for Recipe API or how to build one 
+    
+### 6:00 PM - 6:45
+
+- [exercism](https://exercism.org/tracks/javascript/exercises/elyses-enchantments)
