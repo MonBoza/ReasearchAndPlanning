@@ -6,15 +6,17 @@
 
 - continue with [Exercism](https://exercism.org/tracks/javascript/exercises/poetry-club-door-policy)
 
-
 ### 1:00 - 2:00 PM
 
+- Apply for Jobs
 
 ### 2:00 - 3:00 PM
 
 - LUNCH 🍔
 
-### 3:00 - 5:00 PM
+### 3:00 - 4:00 PM
+
+- Meet with Team Week Team to discuss roles
 
 
 ### 5:00 - 6:45 PM
