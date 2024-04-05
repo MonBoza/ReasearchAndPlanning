@@ -14,7 +14,7 @@
 
 - LUNCH 🍔
 
-### 3:00 - 4:00 PM
+### 3:00 - 4:45 PM
 
 - Meet with Team Week Team to discuss roles
 
